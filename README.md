@@ -166,8 +166,6 @@ Rather than limiting the application to one algorithm, the project provides a co
 
 The application includes working implementations of multiple machine learning workflows. Additional engineering work is planned to improve reliability, architecture, testing, and maintainability.
 
-## Ownership
+## License
 
-This repository contains a project maintained by its owner. No open-source license is currently declared in this README.
-
-All rights are reserved unless a separate license or applicable agreement states otherwise.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
