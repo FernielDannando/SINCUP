@@ -2914,7 +2914,7 @@ def main():
         file.getvalue()
     ).hexdigest()
 
-    if st.session_state["active_dataset_id"] != dataset_id:
+    if st.session_state.get("active_dataset_id") != dataset_id:
         st.session_state["manual_excluded_idx"] = []
         st.session_state["active_dataset_id"] = dataset_id
 
