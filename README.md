@@ -119,7 +119,7 @@ Activate it on Windows PowerShell:
 Install the core dependencies:
 
 ```bash
-python -m pip install streamlit scikit-learn pandas numpy plotly scipy openpyxl
+python -m pip install -r requirements.txt
 ```
 
 HDBSCAN can be installed separately if needed:
